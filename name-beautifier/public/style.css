@@ -1,0 +1,56 @@
+body{
+
+    font-family: 'Raleway', sans-serif;
+    background-color: sandybrown;
+}
+
+div{
+    position: fixed;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%,-50%);
+    
+}
+
+.container{
+    
+    color: plum;
+    padding: 4.5em;
+    border-radius: 1rem;
+    font-size: 2em;
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+}
+
+h1{
+    position: fixed;
+    top: 20%;
+    left: 50%; 
+    transform: translate(-50%,-50%); 
+    
+}
+
+button{
+    position: fixed;
+    bottom: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: plum;
+    border:none;
+    border-radius: 2rem;
+    padding: .5em 1em;
+    font-size: .7em;
+    font-weight: 300;
+}
+
+/* button:hover{
+    background-color:black;
+    color: plum;
+} */
+
+
+
+
+
+
